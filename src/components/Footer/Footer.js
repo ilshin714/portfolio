@@ -7,7 +7,7 @@ function Footer() {
 
     const shortname = (name) => {
         if(name.length > 10) {
-            return name.split(" ")[0]
+            return name.split(" ")[1]
         } else {
             return name
         }
@@ -22,7 +22,8 @@ function Footer() {
                 <span style={{color: theme.primary, margin: '0 0.5rem -1rem 0.5rem'}}>
                     ❤
                 </span>
-                 by {shortname(headerData.name)}
+                 by {headerData.name}
+                 {/* by {shortname(headerData.name)} */}
             </p>
         </div>
     )

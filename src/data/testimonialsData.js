@@ -12,15 +12,15 @@ export const testimonialsData = [
     {
         id: 1,
         name: 'Ezatullah Rafie',
-        title: 'Control Systems - UX\UI Developer at Tigercat Industries Inc.',
-        text: "I've had the privilege of working with Ilshin Ji on various projects, and her outstanding coding, documentation, and teamwork skills have consistently contributed to our success. Ilshin's adaptability and problem-solving abilities lead to innovative solutions, while her clear documentation and effective communication create a positive team dynamic. I wholeheartedly recommend Ilshin Ji for any project, confident that her contributions will lead to exceptional results.",
+        title: 'Control Systems UX\UI Developer at Tigercat Industries Inc.',
+        text: "I've had the privilege of working with Ilshin Ji on various projects, and her outstanding coding, documentation, and teamwork skills have consistently contributed to our success. Ilshin's adaptability and problem-solving abilities lead to innovative solutions, while her clear documentation and effective communication create a positive team dynamic.",
         image: boy2
     },
     {
         id: 2,
         name: 'Stefan Kovacevic',
         title: 'Software Developer at Brock Solutions',
-        text: "Il Shin is a highly skilled programmer, whose positivity and uplifting attitude make her not only a great student but also a fantastic team player, inspiring everyone around her.",
+        text: "Ilsshin is a highly skilled programmer, whose positivity and uplifting attitude make her not only a great student but also a fantastic team player, inspiring everyone around her.",
         image: boy1
     },
     // {
