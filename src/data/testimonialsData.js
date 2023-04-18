@@ -23,13 +23,13 @@ export const testimonialsData = [
         text: "Ilshin is a highly skilled programmer, whose positivity and uplifting attitude make her not only a great student but also a fantastic team player, inspiring everyone around her.",
         image: boy1
     },
-    // {
-    //     id: 3,
-    //     name: 'Phoebe Buffay',
-    //     title: 'Massuese',
-    //     text: "Heard of the song 'Smelly Cat!!' ? This website made it viral. Plus portfolio is the only thing that Ursula doesn't have :)",
-    //     image: girl1
-    // },
+    {
+        id: 3,
+        name: 'Trevor White',
+        title: 'Systems Developer at Co-operators',
+        text: "Ilshin is an awesome team member and is great to work with. Best of all, she actually knows how to code very well and any programming she doesn't know she goes out and learns which is something not everyone can do.",
+        image: boy3
+    },
     // {
     //     id: 4,
     //     name: 'Joey Tribbiani',

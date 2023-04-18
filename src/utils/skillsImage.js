@@ -76,6 +76,10 @@ import dotnet from "../assets/svg/skills/ms-net.svg";
 import blazor from "../assets/svg/skills/blazor.svg";
 import microsoftSql from "../assets/svg/skills/microsoftSql.svg";
 import oracle from "../assets/svg/skills/oracle.svg";
+import postman from "../assets/svg/skills/postman.svg";
+import dotnetCore from "../assets/svg/skills/dotnet-core.svg";
+import restApi from "../assets/svg/skills/rest-api.svg";
+import spring from "../assets/svg/skills/spring.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
 
@@ -238,6 +242,14 @@ export const skillsImage = (skill) => {
       return blazor;
     case "sqlserver":
       return microsoftSql;
+    case "spring":
+      return spring;
+    case "dotnetcore":
+      return dotnetCore;
+    case "postman":
+      return postman;
+    case "restapi":
+      return restApi;
     default:
       break;
   }

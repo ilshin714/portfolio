@@ -1,10 +1,18 @@
- export const skillsData = [
-    'Java',
-    'Spring',
-    'MySQL',
-    'Oracle',
-    'MongoDB',
-    'React',
+export const keySkillsData = [
+    'C#',
+    'SQLServer',
+    'dotnet',
+    'dotnetCore',
+    'Blazor',
+    'RestAPI',
+    'PostMan',
+    'HTML',
+    'Figma',
+    'Javascript',
+    'CSS',
+    'Bootstrap',
+    'Azure',
+    'Git',
 ]
 
 // Choose your skills from below. Make sure it's in the same format and spelled correctly.
