@@ -80,6 +80,7 @@ import postman from "../assets/svg/skills/postman.svg";
 import dotnetCore from "../assets/svg/skills/dotnet-core.svg";
 import restApi from "../assets/svg/skills/rest-api.svg";
 import spring from "../assets/svg/skills/spring.svg";
+import node from "../assets/svg/skills/node.svg";
 
 import canva from "../assets/svg/skills/canva.svg";
 
@@ -250,6 +251,8 @@ export const skillsImage = (skill) => {
       return postman;
     case "restapi":
       return restApi;
+    case "node js":
+      return node;
     default:
       break;
   }

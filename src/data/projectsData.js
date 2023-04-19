@@ -14,8 +14,8 @@ export const projectsData = [
         projectName: 'Idea Incubator',
         projectDesc: 'Idea Incubator is a solution to communicate new products or service ideas across the school programs, view ideas and communicate while observing user authentication, progressive disclosure of an idea’s concepts.',
         tags: ['C#', '.Net6 and Blazor', 'MS SQL Server', 'AzureDevOps'],
-        code: 'https://dev.azure.com/iktsolution/_git/IdeaIncubator',
-        demo: 'https://www.youtube.com/watch?v=ojcY8bNZiw0&list=PL9FhyXGSYnjVQ03FdzwywfvBlEf0nKsS_',
+        code: 'https://github.com/ilshin714/IdeaIncubator',
+        demo: 'https://www.youtube.com/watch?v=fjfxdEGv4U0&list=PL9FhyXGSYnjVQ03FdzwywfvBlEf0nKsS_&index=1',
         image: three
     },
     {

@@ -8,8 +8,8 @@ export const experienceData = [
     },
     {
         id: 2,
-        company: 'SubServe (Conestoga Venture Lab)',
-        jobtitle: 'Developer / Business Coordinator',
+        company: 'SubServe (Venture Lab)',
+        jobtitle: 'Developer & Coordinator',
         startYear: '2020',
         endYear: '2020'
     },

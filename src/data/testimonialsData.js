@@ -13,7 +13,7 @@ export const testimonialsData = [
         id: 1,
         name: 'Ezatullah Rafie',
         title: 'Control Systems UX\UI Developer at Tigercat Industries Inc.',
-        text: "I've had the privilege of working with Ilshin Ji on various projects, and her outstanding coding, documentation, and teamwork skills have consistently contributed to our success.ß",
+        text: "I've had the privilege of working with Ilshin Ji on various projects, and her outstanding coding, documentation, and teamwork skills have consistently contributed to our success.",
         image: boy2
     },
     {
