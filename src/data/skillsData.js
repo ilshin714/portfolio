@@ -7,7 +7,6 @@
     'Node JS',
     'React',
     'Angular',
-    'Typescript',
     'Selenium',
     'Microsoft Office'
 ]
