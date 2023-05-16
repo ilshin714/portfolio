@@ -15,7 +15,7 @@ export const projectsData = [
         projectDesc: 'Idea Incubator is a solution to communicate new products or service ideas across the school programs, view ideas and communicate while observing user authentication, progressive disclosure of an idea’s concepts.',
         tags: ['C#', '.Net6 and Blazor', 'MS SQL Server', 'AzureDevOps'],
         code: 'https://github.com/ilshin714/IdeaIncubator',
-        demo: 'https://www.youtube.com/watch?v=fjfxdEGv4U0',
+        demo: 'https://www.youtube.com/playlist?list=PL9FhyXGSYnjVQ03FdzwywfvBlEf0nKsS_',
         image: three
     },
     {
@@ -29,6 +29,26 @@ export const projectsData = [
     },
     {
         id: 3,
+        projectName: 'Note Taking with Image',
+        projectDesc: 'This is a note taking web application using AWS Amplify',
+        tags: ['React', 'JavaScript', 'AWS Amplify', 'GraphQL','VS Code'],
+        code: 'https://github.com/ilshin714/aws-amplify-react-graphql',
+        demo: 'https://main.d2zvig0km94anu.amplifyapp.com/',
+        image: seven
+    },
+    {
+        id: 4,
+        projectName: "e-commerse Angela's Restaurant",
+        projectDesc: `This e-commerce project is for a local business and consists of three websites in total. 
+        The main brand site has been linked to two different restaurants' e-commerce sites, 
+        allowing clients to recognize that they are under the same brand and creating a marketing effect.`,
+        tags: ['WIX', 'Velo', 'Figma'],
+        code: 'https://hae7404.wixsite.com/angelabrand',
+        demo: 'https://hae7404.wixsite.com/angelabrand',
+        image: six
+    },
+    {
+        id: 5,
         projectName: 'Sales Management',
         projectDesc: 'This project aims to build a sales management system that consolidates revenue of a company',
         tags: ['Java', 'JavaSwing', 'Oracle'],
@@ -37,7 +57,7 @@ export const projectsData = [
         image: seven
     },
     {
-        id: 4,
+        id: 6,
         projectName: 'Santa Delivery Game',
         projectDesc: 'This project is a computer games using the latest object-oriented game development frameworks.',
         tags: ['C#', 'MONOGAME', 'XNA'],
@@ -45,24 +65,6 @@ export const projectsData = [
         demo: 'https://www.youtube.com/watch?v=82HzrfaCALs',
         image: six
     },
-    // {
-    //     id: 5,
-    //     projectName: 'E-Commerce App',
-    //     projectDesc: 'A Simple E-commerce application',
-    //     tags: ['React Native', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: five
-    // },
-    // {
-    //     id: 6,
-    //     projectName: 'Uber Lite',
-    //     projectDesc: 'Uber clone',
-    //     tags: ['Flutter'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: six
-    // },
     // {
     //     id: 7,
     //     projectName: 'Stock Market App',
