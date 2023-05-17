@@ -23,7 +23,7 @@ export const projectsData = [
         projectName: 'e-commerse Organic Green',
         projectDesc: 'This is a shopping mall for Korean Small and Midium sized farmers who do not have marketing resources.',
         tags: ['Java', 'JavaScript', 'Bootstrap', 'Oracle'],
-        code: 'https://github.com/ilshin714/OrganicGreen_ShoppingMall_Java_Spring_Bootstrap_Oracle/tree/master/OrganicGreen_Java_Spring_JavaScript_Bootstrap_Oracle',
+        code: 'https://github.com/ilshin714/OrganicGreen_ShoppingMall_Java_Spring_Bootstrap_Oracle',
         demo: 'https://www.youtube.com/watch?v=jodzRuqxWTA',
         image: five
     },
